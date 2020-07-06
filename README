@@ -1,0 +1,23 @@
+To finish all of this as close to the book as I could, I spent close to 25 hours on this already XD
+or maybe I am just bad with coding..
+1   make pointerqueue 
+
+2   make loctree
+    make lcrstree
+
+3   make    [Discussion written as comment within timing.cpp]
+            We can cleary see that LCRS tree implementation with Parent collumn within cell space
+        performed supperior against LOC tree.
+            Both left child and parent call for LCRS tree are O(n) for LocTree, while LCRS tree search
+        time is only O(1) as those are already stored within the table.
+            Roughly 8 times as fast for both traversal operations
+
+4   make mergelist
+
+5   make concatlist
+
+6   make levelorder
+
+7   make travconv   [Could only finish partially]
+
+8   make arith
